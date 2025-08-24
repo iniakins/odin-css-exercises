@@ -1,0 +1,19 @@
+.pink-ladies{
+    background-color: rgb(241, 148, 169);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.larger{
+font-size: 24px;
+}
+
+#num-two{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#num-four{
+    background-color: hsl(120, 83%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
