@@ -1,0 +1,14 @@
+.left{
+    background-color: #0a0a0a;
+    color: rgb(255, 255, 255);
+}
+
+.right{
+    background-color: hsl(60, 93%, 55%);
+}
+
+.left,
+.right{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
